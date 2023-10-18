@@ -1,0 +1,22 @@
+{
+"user1": {
+      "id": 1,
+      "CompanyName": "Fifth Harmony",
+      "Employees": [
+        "Ally",
+        "Normani",
+        "Dinah Jane",
+        "Camila",
+        "Lauren"
+      ],
+      "Positions": [
+        "CEO",
+        "President",
+        "Vice-President",
+        "Secretary",
+        "Assistant Secretary"
+      ],
+      "Location": "New York"
+    } 
+  }    
+  
